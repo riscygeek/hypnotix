@@ -1,2 +1,2 @@
 #!/bin/sh
-/usr/lib/hypnotix/hypnotix.py &
+@PREFIX@/lib/hypnotix/hypnotix.py &
